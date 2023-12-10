@@ -1,0 +1,17 @@
+/Users/rickynguyen/Projects/dotnet-rabitmq/bin/Debug/net8.0/dotnet-rabitmq
+/Users/rickynguyen/Projects/dotnet-rabitmq/bin/Debug/net8.0/dotnet-rabitmq.deps.json
+/Users/rickynguyen/Projects/dotnet-rabitmq/bin/Debug/net8.0/dotnet-rabitmq.runtimeconfig.json
+/Users/rickynguyen/Projects/dotnet-rabitmq/bin/Debug/net8.0/dotnet-rabitmq.dll
+/Users/rickynguyen/Projects/dotnet-rabitmq/bin/Debug/net8.0/dotnet-rabitmq.pdb
+/Users/rickynguyen/Projects/dotnet-rabitmq/obj/Debug/net8.0/dotnet-rabitmq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rickynguyen/Projects/dotnet-rabitmq/obj/Debug/net8.0/dotnet-rabitmq.AssemblyInfoInputs.cache
+/Users/rickynguyen/Projects/dotnet-rabitmq/obj/Debug/net8.0/dotnet-rabitmq.AssemblyInfo.cs
+/Users/rickynguyen/Projects/dotnet-rabitmq/obj/Debug/net8.0/dotnet-rabitmq.csproj.CoreCompileInputs.cache
+/Users/rickynguyen/Projects/dotnet-rabitmq/obj/Debug/net8.0/dotnet-rabitmq.dll
+/Users/rickynguyen/Projects/dotnet-rabitmq/obj/Debug/net8.0/refint/dotnet-rabitmq.dll
+/Users/rickynguyen/Projects/dotnet-rabitmq/obj/Debug/net8.0/dotnet-rabitmq.pdb
+/Users/rickynguyen/Projects/dotnet-rabitmq/obj/Debug/net8.0/dotnet-rabitmq.genruntimeconfig.cache
+/Users/rickynguyen/Projects/dotnet-rabitmq/obj/Debug/net8.0/ref/dotnet-rabitmq.dll
+/Users/rickynguyen/Projects/dotnet-rabitmq/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/rickynguyen/Projects/dotnet-rabitmq/obj/Debug/net8.0/dotnet-rabitmq.csproj.AssemblyReference.cache
+/Users/rickynguyen/Projects/dotnet-rabitmq/obj/Debug/net8.0/dotnet-rabitmq.csproj.CopyComplete
